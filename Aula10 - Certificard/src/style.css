@@ -1,0 +1,44 @@
+body {
+  background-color: #ff5722;
+  font-family: 'Open Sans', sans-serif;
+}
+
+section {
+  -webkit-box-shadow: 5px 5px 50px 8px rgba(0, 0, 0, 0.59);
+  box-shadow: 5px 5px 50px 8px rgba(0, 0, 0, 0.59);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  margin-top:100px;
+  background-color: white;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 
+}
+
+header {
+  background-image: url('https://www.neoassist.com/wp-content/uploads/2018/03/tecnologia-na-saude-atendimento-ao-cliente.jpg');
+  background-size: cover;
+  height: 80px;
+  border-radius: 5px
+}
+
+div {
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #bac3d6;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  transform: translateY(-50%);
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: 8px solid white;
+}

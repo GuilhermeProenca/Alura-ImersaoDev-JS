@@ -5,7 +5,7 @@
         <a href="https://codepen.io/guilhermeproenca/full/jOyNZMX" class="imersao">💰 Conversor de Moedas</a>
       </li>
       <li>
-        <a href="https://codepen.io/guilhermeproenca/full/vYgEGLG" class="imersao">🔢Calculadora</a>
+        <a href="https://codepen.io/guilhermeproenca/full/vYgEGLG" class="imersao">🔢 Calculadora</a>
       </li>
       <li>
         <a href="https://codepen.io/guilhermeproenca/full/jOyPKdK" class="imersao">🔮 Mentalista</a>
